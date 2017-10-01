@@ -1,5 +1,11 @@
 # Breakout
 
+
+
+![Alt text](https://i.gyazo.com/f43327913cdec1ab4da6a3ffe5e5967c.png "Atari Breakout In Chrome")
+
+
+
 * __What does this project do?__
   This is Atari Breakout clone created using HTML5 and Javascript.
 
@@ -12,3 +18,9 @@ If you find a way to improve the game that hasn't been mentioned in the issues. 
 
 * __Where can I get more help, if I need it?__
 You can contact the owner at techie.vigneshramesh@gmail.com
+
+* __How do I play?__
+Like any browser game, the premise is simple. You move the "board" at the bottom of the screen with your arrow keys and try to deflect the ball. When you destroy all the blocks on top you win!
+
+
+
